@@ -14,7 +14,7 @@
 
 📫 How to reach me:  
 [![Email](https://img.shields.io/badge/Email-mohdfarhank35@gmail.com-red?style=flat-square&logo=gmail&logoColor=white)](mailto:mohdfarhank35@gmail.com)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-mohd-farhankhan-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/mohd-farhankhan/)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-MohdFarhanKhan-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/mohd-farhankhan/)  
 
 😄 Pronouns: **He/Him**  
 ⚡ Fun fact: I’m super passionate about **learning new and evolving technologies** — from **robotics** and **AI** to **cloud** and **web development**!
